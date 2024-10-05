@@ -2,22 +2,22 @@
   <h1 align="center">VAULT - A Fintech Bank Application</h3>
 </div>
 
-## 📋 <a name="table">Table of Contents</a>
+##  <a name="table">Table of Contents</a>
 
-1. 🤖 [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
-5. 🕸️ [Code Snippets to Copy](#snippets)
-6. 🔗 [Assets](#links)
+1.  [Introduction](#introduction)
+2.  [Tech Stack](#tech-stack)
+3.  [Features](#features)
+4.  [Quick Start](#quick-start)
+5.  [Code Snippets to Copy](#snippets)
+6.  [Assets](#links)
 
 
-## <a name="introduction">🤖 Introduction</a>
+## <a name="introduction"> Introduction</a>
 
 Built with Next.js, Horizon is a financial SaaS platform that connects to multiple bank accounts, displays transactions in real-time, allows users to transfer money to other platform users, and manages their finances altogether. 
 
 
-## <a name="tech-stack">⚙️ Tech Stack</a>
+## <a name="tech-stack"> Tech Stack</a>
 
 - Next.js
 - TypeScript
@@ -30,7 +30,7 @@ Built with Next.js, Horizon is a financial SaaS platform that connects to multip
 - Chart.js
 - ShadCN
 
-## <a name="features">🔋 Features</a>
+## <a name="features"> Features</a>
 
 👉 **Authentication**: An ultra-secure SSR authentication with proper validations and authorization
 
@@ -50,7 +50,7 @@ Built with Next.js, Horizon is a financial SaaS platform that connects to multip
 
 and many more, including code architecture and reusability. 
 
-## <a name="quick-start">🤸 Quick Start</a>
+## <a name="quick-start"> Quick Start</a>
 
 Follow these steps to set up the project locally on your machine.
 
