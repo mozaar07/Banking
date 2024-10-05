@@ -124,7 +124,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 <details>
 <summary><code>.env.example</code></summary>
 
-```env
+``env
 #NEXT
 NEXT_PUBLIC_SITE_URL=
 
@@ -149,7 +149,7 @@ DWOLLA_KEY=
 DWOLLA_SECRET=
 DWOLLA_BASE_URL=https://api-sandbox.dwolla.com
 DWOLLA_ENV=sandbox
-```
+``
 
 </details>
 
